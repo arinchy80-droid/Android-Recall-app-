@@ -1,0 +1,6 @@
+{
+  "name": "Recall",
+  "description": "Personal Memory AI & CRM assistant: record audio, camera OCR, daily debrief, and conversational concierge grounded in your memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
